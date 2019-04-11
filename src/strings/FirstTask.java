@@ -3,7 +3,7 @@ import java.util.*;
 //Task #1: Finding the first word with the "biggest" letter.
 public class FirstTask
 {
-public static void main(String[] args)
+public static void main(String[] arguments)
 {
 Scanner scanner = new Scanner(System.in);
 String input = scanner.nextLine();
