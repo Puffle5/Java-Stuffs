@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-//Task #2: Find the word with the biggest "sum" of its letters.
+//Task #2: Finding the word with the biggest "sum" of its letters.
 public class SecondTask
 {
 public static void main(String[] arguments)
